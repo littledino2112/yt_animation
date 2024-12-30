@@ -7,3 +7,6 @@ Install required modules using requirements.txt
 
 # To export video file:
 (To be filled in later)
+
+# Run this on windows if there's an error with running manim
+export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libffi.so.7
